@@ -1,4 +1,5 @@
 **Analyze-International-Debt-Statistics (PostgreSQL)**
+
 In this project, we explore the debt that developing countries owe to the World Bank. Countries often take on debt to support economic needs such as infrastructure and social programs that contribute to citizens' quality of life. The World Bank is a significant provider of this financial assistance.
 
 Using PostgreSQL, we analyze international debt data collected by The World Bank. This dataset contains information about debt (in USD) across several categories for various countries. Our objectives include finding insights into debt distribution, understanding which countries carry the largest debt, and analyzing debt patterns across different indicators. The data spans national and regional debt statistics from 1970 to 2015.
